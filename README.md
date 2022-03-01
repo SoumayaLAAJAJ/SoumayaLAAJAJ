@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoumayaLAAJAJ
 - 👀 I’m interested in coding, learning and being part of a community.
-- 🌱 I’m currently learning how to become a IT developer.
+- 🌱 I’m currently learning how to become a web developer.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me - by PM
 
